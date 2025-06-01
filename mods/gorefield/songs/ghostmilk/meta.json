@@ -1,0 +1,20 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 127,
+	"difficulties": [
+		"Ghostmilk"
+	],
+	"needsVoices": true,
+	"parsedColor": -1,
+	"displayName": "Ghostmilk",
+	"icon": "Icon",
+	"name": "Ghostmilk",
+	"color": "#FFFFFF",
+	"customValues": {
+		"deathscript": "gameoverscript",
+		"hudType": "mom"
+	}
+}

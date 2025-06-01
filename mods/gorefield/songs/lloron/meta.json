@@ -1,0 +1,20 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 200,
+	"difficulties": [
+		"lloron"
+	],
+	"needsVoices": true,
+	"parsedColor": -1,
+	"displayName": "Lloron",
+	"icon": "Icon",
+	"name": "Lloron",
+	"color": "#FFFFFF",
+	"customValues": {
+		"deathscript": "gameoverscript",
+		"hudType": "mom"
+	}
+}

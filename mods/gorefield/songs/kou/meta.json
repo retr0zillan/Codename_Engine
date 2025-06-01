@@ -1,0 +1,20 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 190,
+	"difficulties": [
+		"Normal"
+	],
+	"needsVoices": true,
+	"parsedColor": -1,
+	"displayName": "Kou",
+	"icon": "Icon",
+	"name": "Kou",
+	"color": "#FFFFFF",
+	"customValues": {
+		"deathscript": "gameoverscript",
+		"hudType": "mom"
+	}
+}

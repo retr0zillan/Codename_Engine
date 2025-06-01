@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="icon-nggirl" y="120" camx="-50" camy="50"isGF="false" isPlayer="false" holdTime="6.1" sprite="NG_girl">
+	<anim x="0" loop="true" y="0" fps="24" anim="idle" name="idle"/>
+	<anim x="-11" loop="false" y="30" fps="24" anim="up" name="singUP"/>
+	<anim x="214" loop="false" y="75" fps="24" anim="left" name="singLEFT"/>
+	<anim x="-11" loop="false" y="-15" fps="24" anim="right" name="singRIGHT"/>
+	<anim x="50" loop="false" y="-160" fps="24" anim="down" name="singDOWN"/>
+	<anim x="91" loop="false" y="-1" fps="24" anim="hey" name="Hey"/>
+</character>

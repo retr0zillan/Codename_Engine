@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="bfh-icon" camx="-100" y="350" isGF="false" flipX="true" isPlayer="true" sprite="BFnormal.aseprite">
+	<anim x="-5" loop="false" y="0" fps="24" anim="bfh24_idle" name="idle"/>
+	<anim x="-11" loop="false" y="1" fps="24" anim="bfh24_up0" name="singUP"/>
+	<anim x="-6" loop="false" y="0" fps="24" anim="bfh24_left0" name="singLEFT"/>
+	<anim x="-4" loop="false" y="-2" fps="24" anim="bfh24_right0" name="singRIGHT"/>
+	<anim x="0" loop="false" y="3" fps="24" anim="bfh24_down0" name="singDOWN"/>
+	<anim x="-11" loop="false" y="1" fps="24" anim="bfh24_upfuck" name="singUPmiss"/>
+	<anim x="-6" loop="false" y="0" fps="24" anim="bfh24_leftfuck" name="singLEFTmiss"/>
+	<anim x="-4" loop="false" y="-2" fps="24" anim="bfh24_rightfuck" name="singRIGHTmiss"/>
+	<anim x="0" loop="false" y="3" fps="24" anim="bfh24_downfuck" name="singDOWNmiss"/>
+</character>

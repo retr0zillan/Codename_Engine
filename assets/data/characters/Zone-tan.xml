@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="icon-zone" y="0" isGF="false" color="#5719CB" isPlayer="false" holdTime="6.1" sprite="Zone-Tan_Assets">
+	<anim x="0" loop="false" y="0" fps="24" anim="Zone-Tan Idle" name="idle"/>
+	<anim x="-105" loop="false" y="20" fps="24" anim="Zone-Tan Arriba" name="singUP"/>
+	<anim x="95" loop="false" y="10" fps="24" anim="Zone-Tan Izquierda" name="singLEFT"/>
+	<anim x="-180" loop="false" y="-35" fps="24" anim="Zone-Tan Derecha" name="singRIGHT"/>
+	<anim x="-150" loop="false" y="-195" fps="24" anim="Zone-Tan Abajo" name="singDOWN"/>
+</character>

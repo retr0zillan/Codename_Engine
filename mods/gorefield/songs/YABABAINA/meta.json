@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 200,
+	"difficulties": [
+		"Mania"
+	],
+	"needsVoices": false,
+	"parsedColor": -1,
+	"displayName": "YABABAINA",
+	"icon": "Icon",
+	"name": "YABABAINA",
+	"color": "#FFFFFF"
+}

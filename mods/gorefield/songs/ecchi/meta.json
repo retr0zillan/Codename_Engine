@@ -1,0 +1,20 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 160,
+	"difficulties": [
+		"hard"
+	],
+	"needsVoices": true,
+	"parsedColor": -1,
+	"displayName": "Ecchi",
+	"icon": "icon-zone",
+	"name": "Ecchi",
+	"color": "#FFFFFF",
+	"customValues": {
+		"deathscript": "gameoverscript",
+		"hudType": "mom"
+	}
+}

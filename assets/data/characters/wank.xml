@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-530" icon="icon-wank" camx="100" y="150" isGF="false" scale="0.8" camy="0" color="#1854A4" isPlayer="false" gameOverChar="" sprite="WhiteHank">
+	<anim x="0" loop="true" y="0" fps="24" anim="Idle" name="idle"/>
+	<anim x="-300" loop="false" y="-32" fps="24" anim="right" name="singRIGHT"/>
+	<anim x="-309" loop="false" y="-79" fps="24" anim="down" name="singDOWN"/>
+	<anim x="-214" loop="false" y="66" fps="24" anim="up" name="singUP"/>
+	<anim x="-110" loop="false" y="45" fps="24" anim="left" name="singLEFT"/>
+</character>

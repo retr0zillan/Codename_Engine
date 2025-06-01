@@ -1,0 +1,20 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 189,
+	"difficulties": [
+		"im-bored"
+	],
+	"needsVoices": true,
+	"parsedColor": -1,
+	"displayName": "Im-Bored",
+	"icon": "Icon",
+	"name": "Im-Bored",
+	"color": "#FFFFFF",
+	"customValues": {
+		"deathscript": "gameoverscript",
+		"hudType": "mom"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"bpm": 200,
+	"difficulties": [
+		"Mania"
+	],
+	"needsVoices": false,
+	"parsedColor": -1,
+	"displayName": "Display Name",
+	"icon": "bf",
+	"name": "Bilbory",
+	"color": "#FFFFFF"
+}

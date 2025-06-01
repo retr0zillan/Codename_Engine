@@ -1,0 +1,20 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="icon-cggirl" y="350" isGF="false" color="#000000" flipX="true" isPlayer="true" sprite="cassettegirl">
+	<anim x="0" loop="true" y="0" fps="24" anim="idle" name="idle"/>
+	<anim x="-21" loop="false" y="34" fps="24" anim="up" name="singUP"/>
+	<anim x="21" loop="false" y="2" fps="24" anim="left" name="singLEFT"/>
+	<anim x="-48" loop="false" y="12" fps="24" anim="right" name="singRIGHT"/>
+	<anim x="-12" loop="false" y="-28" fps="24" anim="down" name="singDOWN"/>
+	<anim x="-21" loop="false" y="34" fps="24" anim="miss up" name="singUPmiss"/>
+	<anim x="22" loop="false" y="3" fps="24" anim="miss right" name="singLEFTmiss"/>
+	<anim x="-48" loop="false" y="8" fps="24" anim="miss left" name="singRIGHTmiss"/>
+	<anim x="-5" loop="false" y="-26" fps="24" anim="miss down" name="singDOWNmiss"/>
+	<anim x="-5" loop="false" y="64" fps="24" anim="alt up" name="singUP-alt"/>
+	<anim x="2" loop="false" y="-92" fps="24" anim="alt down" name="singDOWN-alt"/>
+	<anim x="106" loop="false" y="3" fps="24" anim="alt left" name="singLEFT-alt"/>
+	<anim x="-24" loop="false" y="1" fps="24" anim="alt right" name="singRIGHT-alt"/>
+	<anim x="-5" loop="false" y="64" fps="24" anim="alt miss up" name="singUPmiss-alt"/>
+	<anim x="2" loop="false" y="-92" fps="24" anim="alt miss down" name="singDOWNmiss-alt"/>
+	<anim x="90" loop="false" y="1" fps="24" anim="alt miss left" name="singLEFTmiss-alt"/>
+	<anim x="-24" loop="false" y="1" fps="24" anim="alt miss right" name="singRIGHTmiss-alt"/>
+</character>

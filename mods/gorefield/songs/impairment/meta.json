@@ -1,0 +1,20 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 140,
+	"difficulties": [
+		"impairment"
+	],
+	"needsVoices": true,
+	"parsedColor": -1,
+	"displayName": "Impairment",
+	"icon": "Icon",
+	"name": "Impairment",
+	"color": "#FFFFFF",
+	"customValues": {
+		"deathscript": "gameoverscript",
+		"hudType": "mom"
+	}
+}

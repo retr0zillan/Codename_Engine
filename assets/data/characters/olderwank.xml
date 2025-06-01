@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-350" icon="icon-wank" camx="100" y="100" isGF="false" scale="0.8" color="#A11FB1" isPlayer="false" gameOverChar="" sprite="Wank">
+	<anim x="0" loop="true" y="0" fps="24" anim="Wank Idle" name="idle"/>
+	<anim x="-11" loop="false" y="101" fps="24" anim="Wank Right" name="singRIGHT"/>
+	<anim x="-23" loop="false" y="-134" fps="24" anim="Wank Down" name="singDOWN"/>
+	<anim x="-147" loop="false" y="96" fps="24" anim="Wank Up" name="singUP"/>
+	<anim x="107" loop="false" y="22" fps="24" anim="Wank Left" name="singLEFT"/>
+</character>

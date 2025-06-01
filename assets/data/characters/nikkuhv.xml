@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="nikku-icon" y="150" camx="0" camy="0" isGF="false" isPlayer="false" holdTime="6.1" sprite="nikku.aseprite">
+	<anim x="0" loop="false" y="0" fps="24" anim="nikku_idle" name="idle"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="nikku_up" name="singUP"/>
+	<anim x="45" loop="false" y="0" fps="24" anim="nikku_left" name="singLEFT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="nikku_right" name="singRIGHT"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="nikku_down" name="singDOWN"/>
+	<anim x="0" loop="false" y="0" fps="24" anim="nikku_ugh" name="ugh"/>
+</character>

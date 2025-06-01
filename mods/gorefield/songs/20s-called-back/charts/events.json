@@ -1,0 +1,3747 @@
+{
+	"Event 71": [
+		{
+			"time": 121714.285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 122571.428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 122678.571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 122892.857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 123000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 50": [
+		{
+			"time": 85714.2857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 72": [
+		{
+			"time": 123642.857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 124071.428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 124285.714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 124821.428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 125035.714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 51": [
+		{
+			"time": 87428.5714285714,
+			"events": [
+				{
+					"name": "Scroll Velocity",
+					"args": [
+						"constant",
+						2.8
+					]
+				},
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 88285.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 73": [
+		{
+			"time": 125142.857142857,
+			"events": [
+				{
+					"name": "Scroll Velocity",
+					"args": [
+						"constant",
+						3
+					]
+				},
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.08,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 30": [
+		{
+			"time": 51428.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 51857.1428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 52285.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				},
+				{
+					"name": "Set Cam Focus",
+					"args": [
+						"opponent"
+					]
+				}
+			]
+		},
+		{
+			"time": 52714.2857142857,
+			"events": [
+				{
+					"name": "Camera Zoom",
+					"args": [
+						1.4
+					]
+				},
+				{
+					"name": "Play Anim",
+					"args": [
+						"opponent",
+						"IluminatisingUP",
+						1
+					]
+				}
+			]
+		}
+	],
+	"Event 52": [
+		{
+			"time": 89142.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 90000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 31": [
+		{
+			"time": 53142.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				},
+				{
+					"name": "Camera Zoom",
+					"args": [
+						1
+					]
+				}
+			]
+		},
+		{
+			"time": 53357.1428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 53571.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 53785.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 54000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 54214.2857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 54428.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 54642.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 53": [
+		{
+			"time": 90857.1428571428,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 91714.2857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 75": [
+		{
+			"time": 128571.428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 129428.571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 129964.285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 10": [
+		{
+			"time": 17142.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 18000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 32": [
+		{
+			"time": 54857.1428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 55071.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 55285.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 55500,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 55714.2857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 55928.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 56142.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 56357.1428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 54": [
+		{
+			"time": 92571.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 93321.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 93428.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 94071.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 76": [
+		{
+			"time": 130285.714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 131142.857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 11": [
+		{
+			"time": 18857.1428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 19714.2857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 33": [
+		{
+			"time": 56571.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.02,
+						0.02
+					]
+				}
+			]
+		},
+		{
+			"time": 56678.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.02,
+						0.02
+					]
+				}
+			]
+		},
+		{
+			"time": 56785.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.02,
+						0.02
+					]
+				}
+			]
+		},
+		{
+			"time": 56892.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.02,
+						0.02
+					]
+				}
+			]
+		},
+		{
+			"time": 57000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.02,
+						0.02
+					]
+				}
+			]
+		},
+		{
+			"time": 57107.1428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.02,
+						0.02
+					]
+				}
+			]
+		},
+		{
+			"time": 57214.2857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.02,
+						0.02
+					]
+				}
+			]
+		},
+		{
+			"time": 57321.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.02,
+						0.02
+					]
+				}
+			]
+		},
+		{
+			"time": 57428.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.02,
+						0.02
+					]
+				}
+			]
+		},
+		{
+			"time": 57535.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.02,
+						0.02
+					]
+				}
+			]
+		},
+		{
+			"time": 57642.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.02,
+						0.02
+					]
+				}
+			]
+		},
+		{
+			"time": 57750,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.02,
+						0.02
+					]
+				}
+			]
+		},
+		{
+			"time": 57857.1428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.02,
+						0.02
+					]
+				}
+			]
+		},
+		{
+			"time": 57964.2857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.02,
+						0.02
+					]
+				}
+			]
+		},
+		{
+			"time": 58071.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.02,
+						0.02
+					]
+				}
+			]
+		},
+		{
+			"time": 58178.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.02,
+						0.02
+					]
+				}
+			]
+		}
+	],
+	"Event 55": [
+		{
+			"time": 94285.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 95142.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 77": [
+		{
+			"time": 132000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 132857.142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 12": [
+		{
+			"time": 20571.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 21321.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 21428.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 22071.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 34": [
+		{
+			"time": 58285.7142857143,
+			"events": [
+				{
+					"args": [
+						1.2
+					],
+					"name": "Camera Zoom"
+				}
+			]
+		},
+		{
+			"events": [
+				{
+					"args": [
+						1.4
+					],
+					"name": "Camera Zoom"
+				}
+			],
+			"time": 58714.2857142857
+		},
+		{
+			"events": [
+				{
+					"args": [
+						"opponent",
+						"IluminatisingLEFT",
+						1
+					],
+					"name": "Play Anim"
+				}
+			],
+			"time": 58821.4285714286
+		},
+		{
+			"events": [
+				{
+					"args": [
+						"opponent",
+						"IluminatisingDOWN",
+						1
+					],
+					"name": "Play Anim"
+				}
+			],
+			"time": 58928.5714285714
+		},
+		{
+			"events": [
+				{
+					"args": [
+						"opponent",
+						"IluminatisingUP",
+						1
+					],
+					"name": "Play Anim"
+				}
+			],
+			"time": 59142.8571428571
+		},
+		{
+			"events": [
+				{
+					"args": [
+						1.6
+					],
+					"name": "Camera Zoom"
+				},
+				{
+					"args": [
+						"opponent",
+						"IluminatisingUP",
+						1
+					],
+					"name": "Play Anim"
+				}
+			],
+			"time": 59357.1428571429
+		},
+		{
+			"events": [
+				{
+					"args": [
+						"opponent",
+						"IluminatisingRIGHT",
+						1
+					],
+					"name": "Play Anim"
+				}
+			],
+			"time": 59464.2857142857
+		},
+		{
+			"time": 59571.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				},
+				{
+					"args": [
+						"opponent",
+						"IluminatisingLEFT",
+						1
+					],
+					"name": "Play Anim"
+				}
+			]
+		}
+	],
+	"Event 56": [
+		{
+			"time": 96000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 96857.1428571428,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 78": [
+		{
+			"time": 133714.285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 134464.285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 134571.428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 135214.285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 13": [
+		{
+			"time": 22285.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 23142.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 35": [
+		{
+			"events": [
+				{
+					"args": [
+						"constant",
+						3.2
+					],
+					"name": "Scroll Velocity"
+				},
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.08,
+						0.03
+					]
+				},
+				{
+					"args": [
+						1
+					],
+					"name": "Camera Zoom"
+				}
+			],
+			"time": 60000
+		},
+		{
+			"time": 60857.1428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 61285.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 79": [
+		{
+			"time": 135428.571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 136285.714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 14": [
+		{
+			"time": 24000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 24857.1428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 36": [
+		{
+			"time": 61928.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 62357.1428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 62571.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 63000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 63107.1428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 63321.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 58": [
+		{
+			"events": [
+				{
+					"args": [
+						"opponent",
+						"IluminatisingRIGHT",
+						1
+					],
+					"name": "Play Anim"
+				},
+				{
+					"args": [
+						1.2
+					],
+					"name": "Camera Zoom"
+				}
+			],
+			"time": 99428.5714285714
+		},
+		{
+			"events": [
+				{
+					"args": [
+						"opponent",
+						"IluminatisingUP",
+						1
+					],
+					"name": "Play Anim"
+				}
+			],
+			"time": 99964.2857142857
+		},
+		{
+			"events": [
+				{
+					"args": [
+						"opponent",
+						"IluminatisingUP",
+						1
+					],
+					"name": "Play Anim"
+				}
+			],
+			"time": 100178.571428571
+		},
+		{
+			"events": [
+				{
+					"args": [
+						"opponent",
+						"IluminatisingDOWN",
+						1
+					],
+					"name": "Play Anim"
+				}
+			],
+			"time": 100285.714285714
+		},
+		{
+			"time": 100714.285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				},
+				{
+					"args": [
+						1.4
+					],
+					"name": "Camera Zoom"
+				},
+				{
+					"args": [
+						"opponent",
+						"Iluminatising",
+						1
+					],
+					"name": "Play Anim"
+				}
+			]
+		},
+		{
+			"events": [
+				{
+					"args": [
+						"opponent",
+						"IluminatisingDOWN",
+						1
+					],
+					"name": "Play Anim"
+				}
+			],
+			"time": 100928.571428571
+		}
+	],
+	"Event 15": [
+		{
+			"time": 25714.2857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 26571.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 37": [
+		{
+			"time": 63428.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 63750,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 64071.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 64285.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 59": [
+		{
+			"time": 101142.857142857,
+			"events": [
+				{
+					"name": "Scroll Velocity",
+					"args": [
+						"constant",
+						3.2
+					]
+				},
+				{
+					"args": [
+						1
+					],
+					"name": "Camera Zoom"
+				},
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.08,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 102000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 102107.142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 102321.428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 102428.571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 16": [
+		{
+			"time": 27428.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 28178.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 28285.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 28500,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 28714.2857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 28928.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 38": [
+		{
+			"time": 65142.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 66000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 66321.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 66428.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 17": [
+		{
+			"time": 29142.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 30000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 39": [
+		{
+			"time": 66857.1428571428,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 67714.2857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 67821.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 68035.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 68142.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 18": [
+		{
+			"time": 30857.1428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 31714.2857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 19": [
+		{
+			"time": 32571.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 33428.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 8": [
+		{
+			"time": 14357.1428571429,
+			"events": [
+				{
+					"name": "Camera Zoom",
+					"args": [
+						1.4
+					]
+				}
+			]
+		},
+		{
+			"time": 14571.4285714286,
+			"events": [
+				{
+					"name": "Play Anim",
+					"args": [
+						"opponent",
+						"DanksingDOWN",
+						1
+					]
+				}
+			]
+		},
+		{
+			"time": 14785.7142857143,
+			"events": [
+				{
+					"name": "Play Anim",
+					"args": [
+						"opponent",
+						"DanksingDOWN",
+						1
+					]
+				}
+			]
+		},
+		{
+			"time": 15000,
+			"events": [
+				{
+					"name": "Play Anim",
+					"args": [
+						"opponent",
+						"DanksingDOWN",
+						1
+					]
+				}
+			]
+		},
+		{
+			"time": 15214.2857142857,
+			"events": [
+				{
+					"name": "Play Anim",
+					"args": [
+						"opponent",
+						"DanksingDOWN",
+						1
+					]
+				}
+			]
+		}
+	],
+	"Event 9": [
+		{
+			"time": 15428.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				},
+				{
+					"name": "Camera Zoom",
+					"args": [
+						1
+					]
+				}
+			]
+		},
+		{
+			"time": 16285.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 80": [
+		{
+			"time": 137142.857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 138000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 81": [
+		{
+			"time": 138857.142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 139714.285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 82": [
+		{
+			"time": 140571.428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 141428.571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 60": [
+		{
+			"time": 103071.428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 103500,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 103714.285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 104142.857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 104250,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 104464.285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 61": [
+		{
+			"time": 104571.428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 104892.857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 105214.285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 105428.571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 40": [
+		{
+			"time": 68785.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 69214.2857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 69428.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 69964.2857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 70178.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 62": [
+		{
+			"time": 106285.714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 107142.857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 107464.285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 107571.428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 41": [
+		{
+			"time": 70285.7142857143,
+			"events": [
+				{
+					"name": "Scroll Velocity",
+					"args": [
+						"constant",
+						3
+					]
+				},
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 70607.1428571428,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 70928.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 71142.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 71464.2857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 71785.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 63": [
+		{
+			"time": 108000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 108857.142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 108964.285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 109178.571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 109285.714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 20": [
+		{
+			"time": 34285.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 35035.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 35142.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 35785.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 42": [
+		{
+			"time": 72000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 72750,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 72857.1428571428,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 73071.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 73285.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 64": [
+		{
+			"time": 109928.571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 110357.142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 110571.428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 111107.142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 111321.428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 21": [
+		{
+			"time": 36000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 36857.1428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 43": [
+		{
+			"time": 73714.2857142857,
+			"events": [
+				{
+					"name": "Scroll Velocity",
+					"args": [
+						"constant",
+						3.2
+					]
+				},
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.08,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 74571.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 74892.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 75000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 65": [
+		{
+			"time": 111428.571428571,
+			"events": [
+				{
+					"name": "Scroll Velocity",
+					"args": [
+						"constant",
+						2.8
+					]
+				},
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 111750,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 112071.428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 112285.714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 112607.142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 112928.571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 22": [
+		{
+			"time": 37714.2857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 38571.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 44": [
+		{
+			"time": 75642.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 76071.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 76285.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 76714.2857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 76821.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 77035.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 66": [
+		{
+			"time": 113142.857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 113892.857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 114000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 114214.285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 114428.571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 23": [
+		{
+			"time": 39428.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 40285.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 45": [
+		{
+			"time": 77142.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 77464.2857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 77785.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 78000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 67": [
+		{
+			"time": 114857.142857143,
+			"events": [
+				{
+					"name": "Scroll Velocity",
+					"args": [
+						"constant",
+						3.2
+					]
+				},
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.08,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 115714.285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 115821.428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 116035.714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 116142.857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 24": [
+		{
+			"time": 41142.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 41892.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 42000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 42214.2857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 42428.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 42642.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 46": [
+		{
+			"time": 78857.1428571428,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 79714.2857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 80035.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 80142.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 68": [
+		{
+			"time": 116785.714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 117214.285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 117428.571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 117857.142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 117964.285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 118178.571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 69": [
+		{
+			"time": 118285.714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 118607.142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 118928.571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 119142.857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 47": [
+		{
+			"time": 80571.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 81428.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 81535.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 81750,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 81857.1428571428,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 25": [
+		{
+			"time": 42857.1428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 48": [
+		{
+			"time": 82500,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 82928.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 83142.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 83678.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 83892.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 49": [
+		{
+			"time": 84000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 84321.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 84642.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 84857.1428571428,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 85178.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 85500,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 27": [
+		{
+			"events": [
+				{
+					"args": [
+						"constant",
+						3
+					],
+					"name": "Scroll Velocity"
+				},
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			],
+			"time": 46285.7142857143
+		},
+		{
+			"time": 46714.2857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 47142.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 47571.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 28": [
+		{
+			"time": 48000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 48428.5714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 48857.1428571429,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 49285.7142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 29": [
+		{
+			"time": 49714.2857142857,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 50142.8571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 50571.4285714286,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 51000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	],
+	"Event 70": [
+		{
+			"time": 120000,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 120857.142857143,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 121178.571428571,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		},
+		{
+			"time": 121285.714285714,
+			"events": [
+				{
+					"name": "Camera Zoom Bump",
+					"args": [
+						0.05,
+						0.03
+					]
+				}
+			]
+		}
+	]
+}

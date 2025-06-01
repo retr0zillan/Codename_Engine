@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="icon-ellie" y="-150" isGF="false" color="#CE16E4" isPlayer="false" holdTime="4" sprite="Ellie_Rose">
+	<anim x="0" loop="false" y="0" fps="24" anim="Ellie idle" name="idle"/>
+	<anim x="46" loop="false" y="8" fps="24" anim="Ellie arriba" name="singUP"/>
+	<anim x="105" loop="false" y="-24" fps="24" anim="Ellie izquierda" name="singLEFT"/>
+	<anim x="-3" loop="false" y="-13" fps="24" anim="Ellie derecha" name="singRIGHT"/>
+	<anim x="10" loop="false" y="-41" fps="24" anim="Ellie abajo" name="singDOWN"/>
+</character>

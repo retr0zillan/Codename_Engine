@@ -1,0 +1,20 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 165,
+	"difficulties": [
+		"dripno"
+	],
+	"needsVoices": true,
+	"parsedColor": -1,
+	"displayName": "Dripno",
+	"icon": "Icon",
+	"name": "Dripno",
+	"color": "#FFFFFF",
+	"customValues": {
+		"deathscript": "gameoverscript",
+		"hudType": "mom"
+	}
+}

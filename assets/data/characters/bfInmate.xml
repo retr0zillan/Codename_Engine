@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="bfInmate" camx="-350" y="0" isGF="false" camy="-200" color="#FF7300" flipX="true" isPlayer="true" sprite="BoyfriendInmate">
+	<anim x="125" loop="false" y="159" fps="24" anim="Idle" name="idle"/>
+	<anim x="130" loop="false" y="176" fps="24" anim="Up" name="singUP"/>
+	<anim x="122" loop="false" y="153" fps="24" anim="Left" indices="1,2,3,4,5,6" name="singLEFT"/>
+	<anim x="144" loop="false" y="147" fps="24" anim="Right" name="singRIGHT"/>
+	<anim x="139" loop="false" y="107" fps="24" anim="Down" name="singDOWN"/>
+	<anim x="154" loop="false" y="177" fps="24" anim="MissUp" name="singUPmiss"/>
+	<anim x="150" loop="false" y="154" fps="24" anim="MissLeft" name="singLEFTmiss"/>
+	<anim x="192" loop="false" y="147" fps="24" anim="MissRight" name="singRIGHTmiss"/>
+	<anim x="174" loop="false" y="105" fps="24" anim="MissDown" name="singDOWNmiss"/>
+</character>

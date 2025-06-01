@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="1" name="zoneday" folder="stages/zoneday/" startCamPosY="1600" startCamPosX="1000">
+	<sprite name="cielo"        scale="0.4"      x="0" y="0"   sprite="cielo"         scroll="1"/>
+	<sprite name="edificios"      scale="0.4"      x="0" y="0"   sprite="edificios"       scroll="1"/>
+	<sprite name="cuarto_interior"        scale="0.4"      x="0" y="0"   sprite="cuarto_interior"      scroll="1"/>
+
+
+	<girlfriend x = "1400" y = "630" scale="0.5"/>
+	<dad x = "1250" y= "700" scale="0.7" />
+	<boyfriend x = "1800" y = "750" alpha="0" scale="0.5"/>
+
+	<sprite name="mesa"      scale="0.4"      x="0" y="0"   sprite="mesa"       scroll="1"/>
+	
+
+</stage>
