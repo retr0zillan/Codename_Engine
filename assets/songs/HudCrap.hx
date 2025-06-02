@@ -42,7 +42,7 @@ function postCreate(){
         var reference = new FlxObject(0, FlxG.height * 0.9, 601, 19);
 		reference.screenCenter(0x01);
 
-		scoreTxt.setPosition(reference.x + -170, reference.y - 550, Std.int(reference.width - 100));
+		scoreTxt.setPosition(reference.x + -230, reference.y - 570, Std.int(reference.width - 100));
         
 		missesTxt.setPosition(reference.x - 500, reference.y - 570, Std.int(reference.width - 100));
 		accuracyTxt.setPosition(reference.x  - 300, reference.y - 530, Std.int(reference.width - 100));
@@ -72,7 +72,7 @@ function postCreate(){
 
 		add(healthBarBG);
 
-        var scoreHolder = new FlxSprite(healthBar.x -260,healthBar.y - 750).loadGraphic(Paths.image('game/mancha combo'));
+        var scoreHolder = new FlxSprite(healthBar.x -300,healthBar.y - 790).loadGraphic(Paths.image('game/mancha combo'));
 		scoreHolder.antialiasing = true;
 		scoreHolder.scrollFactor.set();
         scoreHolder.scale.set(0.3,0.3);
@@ -80,7 +80,7 @@ function postCreate(){
 
         for(e in [healthBar, healthBarBG, brush, scoreHolder]){
 			e.cameras = [camHUD];
-            
+            e.flipY = downscroll;
 			
 		}
 
@@ -135,6 +135,12 @@ function update(elapsed:Float){
 		camNotes.zoom = lerp(camNotes.zoom, 1, 0.05);
    
 	}
-
 	
+  }
+
+  function postUpdate(elapsed:Float){
+        scoreTxt.text = songScore;
+        accuracyTxt.text = 'RANK  ' + curRating.rating;
+		missesTxt.text = comboBreaks ? "COMBO BREAKS " : "MISSES " +"- "+ misses;
+
   }
