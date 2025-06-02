@@ -16,6 +16,7 @@ public var fullBitmap = BitmapData.fromFile(Paths.image('game/FilledRevamped'));
 public var emptyBitmap = BitmapData.fromFile(Paths.image('game/EmptyRevamped'));
 public var brush:FlxSprite;
 public var camNotes:HudCamera;
+public var leSkull:FlxSprite;
 
 function create() {
     importScript("data/scripts/loadzonenotes");
@@ -58,7 +59,7 @@ function postCreate(){
 
 		add(brush);
         var rightColor:Int = boyfriend != null && boyfriend.iconColor != null && Options.colorHealthBar ? boyfriend.iconColor : (PlayState.opponentMode ? 0xFFFF0000 : 0xFF66FF33);
-        healthBar = new FlxBar(brush.x - 100 ,brush.y + 540, FlxBarFillDirection.LEFT_TO_RIGHT,900, 500,this,'health', 0, maxHealth);
+        healthBar = new FlxBar(brush.x - 150 ,brush.y + 540, FlxBarFillDirection.LEFT_TO_RIGHT,900, 500,this,'health', 0, maxHealth);
 		healthBar.createImageBar(emptyBitmap, fullBitmap, FlxColor.RED, FlxColor.BLUE);
 		healthBar.scrollFactor.set();
         healthBar.scale.set(0.5,0.5);
@@ -78,9 +79,23 @@ function postCreate(){
         scoreHolder.scale.set(0.3,0.3);
 		add(scoreHolder);
 
-        for(e in [healthBar, healthBarBG, brush, scoreHolder]){
+        leSkull = new FlxSprite(scoreHolder.x + 880,scoreHolder.y + 550);
+        leSkull.frames = Paths.getFrames('game/skull_icon');
+        leSkull.animation.addByPrefix('normal', 'skull icon normal', 24, false);
+		leSkull.animation.addByPrefix('first hit', 'skull icon firstone', 24, false);
+        leSkull.animation.addByPrefix('second hit', 'skull icon secohit', 24, false);
+		leSkull.animation.addByPrefix('medium', 'skull icon medium', 24, false);
+	    leSkull.animation.addByPrefix('dead', 'skull icon ded', 24, false);
+        leSkull.scrollFactor.set();
+        leSkull.animation.play('normal');
+        leSkull.scale.set(0.5,0.5);
+
+		leSkull.antialiasing = true; 
+		add(leSkull);
+
+        for(e in [healthBar, healthBarBG, brush, scoreHolder, leSkull]){
 			e.cameras = [camHUD];
-            e.flipY = downscroll;
+            if(e!=leSkull)e.flipY = downscroll;
 			
 		}
 
@@ -88,9 +103,40 @@ function postCreate(){
 
 }
 
-  function onPlayerMiss(e) {
-
-  }
+function onRatingUpdate(e) {
+    if (health > 1.5) {
+        leSkull.animation.play('normal');
+        didFirstHit = false;  
+        didSecondHit = false;
+    } 
+    else if (health <= 1.5 && health > 0.5) {
+        if (!didFirstHit) {
+            leSkull.animation.play('first hit');
+            didFirstHit = true;
+            leSkull.animation.finishCallback = function(name:String) {
+                if (name == 'first hit') {
+                    leSkull.animation.play('medium');
+                }
+            };
+        } else if (leSkull.animation.curAnim.name != 'medium') {
+            leSkull.animation.play('medium');
+        }
+    } 
+    else if (health <= 0.5 && health > 0) {
+        if (!didSecondHit) {
+            leSkull.animation.play('second hit');
+            didSecondHit = true;
+          
+            leSkull.animation.finishCallback = function(name:String) {
+                if (name == 'second hit') {
+                    leSkull.animation.play('dead');
+                }
+            };
+        } else if (leSkull.animation.curAnim.name != 'dead') {
+            leSkull.animation.play('dead');
+        }
+    }
+}
   function onNoteCreation(event) {
 	var note = event.note;
     var line  = note.strumLine;

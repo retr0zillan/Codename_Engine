@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="skull_icon.png">
+<SubTexture name="skull icon normal0000" x="330" y="0" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon normal0001" x="330" y="0" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon normal0002" x="330" y="0" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon normal0003" x="330" y="0" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon normal0004" x="330" y="0" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon normal0005" x="330" y="0" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon firstone0000" x="655" y="0" width="353" height="458" frameX="-119" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon firstone0001" x="0" y="460" width="353" height="458" frameX="-119" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon firstone0002" x="353" y="460" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon firstone0003" x="678" y="460" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon medium0000" x="678" y="460" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon medium0001" x="678" y="460" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon medium0002" x="1008" y="0" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon medium0003" x="1008" y="0" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon medium0004" x="1008" y="458" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon medium0005" x="1008" y="458" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon medium0006" x="678" y="460" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon medium0007" x="678" y="460" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon medium0008" x="1008" y="458" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon medium0009" x="1008" y="458" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon medium0010" x="678" y="460" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon medium0011" x="678" y="460" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon medium0012" x="1008" y="0" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon medium0013" x="1008" y="458" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon medium0014" x="1008" y="458" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon medium0015" x="1008" y="0" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon medium0016" x="1008" y="0" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon medium0017" x="678" y="460" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon medium0018" x="678" y="460" width="325" height="458" frameX="-125" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon secohit0000" x="1333" y="0" width="373" height="458" frameX="-110" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon secohit0001" x="1333" y="458" width="373" height="458" frameX="-110" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon secohit0002" x="0" y="918" width="329" height="458" frameX="-121" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon secohit0003" x="0" y="918" width="329" height="458" frameX="-121" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon ded0000" x="0" y="918" width="329" height="458" frameX="-121" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon ded0001" x="0" y="918" width="329" height="458" frameX="-121" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon ded0002" x="0" y="0" width="330" height="460" frameX="-123" frameY="-83" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon ded0003" x="0" y="0" width="330" height="460" frameX="-123" frameY="-83" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon ded0004" x="0" y="918" width="329" height="458" frameX="-121" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon ded0005" x="0" y="918" width="329" height="458" frameX="-121" frameY="-85" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon ded0006" x="0" y="0" width="330" height="460" frameX="-123" frameY="-83" frameWidth="567" frameHeight="588" />
+<SubTexture name="skull icon ded0007" x="0" y="0" width="330" height="460" frameX="-123" frameY="-83" frameWidth="567" frameHeight="588" />
+</TextureAtlas>
