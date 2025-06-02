@@ -71,3 +71,8 @@ function onStrumCreation(event) {
 
 
 }
+
+function onPostNoteCreation(event) {  
+    var splashes = event.note;
+		splashes.splash = "zonesplash";
+}
